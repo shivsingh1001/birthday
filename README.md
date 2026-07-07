@@ -1,0 +1,1 @@
+Add your photos as photo1.jpg, photo2.jpg... in images folder and edit the photos array in script.js.
